@@ -1,0 +1,18 @@
+.about{
+    background-color: lightgrey;
+    margin : 40px 10%;
+    border-radius: 10px;
+    padding: 40px;
+    box-shadow: 0px 0px 10px 0px rgba(3, 3, 3, 0.2);
+    
+}
+
+.about h2{
+    text-align: center;
+}
+.about p{
+    line-height: 1.8;
+    font-size: 20px ;
+     color: grey;
+
+}

@@ -1,0 +1,25 @@
+.navbar{
+    display : flex;
+    justify-content: space-between;
+    align-items: center;
+   background-color: cadetblue;
+    color: white;
+    padding: 18px 10%;
+}
+.logo{
+    font-size: 24px;
+    font-weight: bolder;
+}
+.nav-links{
+    display: flex;
+    font-size: 20px;
+    list-style: none;
+    gap: 25px;
+}
+.nav-links li{
+    cursor: pointer;
+    transition: 0.5s;
+}
+.nav-links li:hover{
+    color: goldenrod;
+}

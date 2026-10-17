@@ -1,0 +1,33 @@
+{
+  "projectdata": [
+    {
+      "id": 1,
+      "title": "Portfolio Website",
+      "tech": "React"
+    },
+    {
+      "id": 2,
+      "title": "Online Turf Booking Website",
+      "tech": "HTML CSS JS Python Django"
+    },
+    {
+      "id": 3,
+      "title": "Hospital Management System",
+      "tech": "HTML CSS JS PHP MySQL"
+    }
+  ],
+  "mobiles": [
+    {
+      "product": "iphone",
+      "price": 100000
+    },
+    {
+      "product": "samsung",
+      "price": 50000
+    },
+    {
+      "product": "mi",
+      "price": 15000
+    }
+  ]
+}      
