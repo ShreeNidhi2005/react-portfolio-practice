@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,25 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+
+# React Portfolio Website
+
+A simple single-page portfolio website created for practice and learning React.js fundamentals.
+
+### Concepts Practiced
+- **useState** – Managing component state.
+- **useEffect** – Handling side effects.
+- **Array Mapping** – Dynamically rendering data.
+- **Fake API Integration** – Fetching data from a fake API and displaying it in App.js.
+
+### Technologies Used
+- React.js
+- JavaScript
+- HTML
+- CSS
+
+### Purpose
+This project was built to gain hands-on experience with React hooks, API data fetching, and dynamic rendering of data in a React application.
+
+>>>>>>> bcbdd0e787dde4a2e13dc6cbcac31d6e6c0dc0e0
