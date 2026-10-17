@@ -16,8 +16,12 @@ A simple single-page portfolio website created for practice and learning React.j
 - HTML
 - CSS
 
+## Purpose
+
+This project was built to gain hands-on experience with React hooks, API data fetching, and dynamic rendering of data in a React application.
+
 ## How to Run
 
-1. Install dependencies using `npm install`.
-2. Start the application using `npm start`.
+1. Run `npm install` to install dependencies.
+2. Run `npm start` to start the development server.
 3. Open `http://localhost:3000` in your browser.
